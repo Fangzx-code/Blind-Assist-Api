@@ -1,7 +1,0 @@
-Flask
-opencv-python-headless
-numpy
-google-genai
-Pillow
-ultralytics
-gunicorn
